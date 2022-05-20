@@ -31,7 +31,7 @@ This section contains PyMC Lab's branding standards and guidelines.
 - File size: 404 KB (4167 x 4167 px)
 - [2-pymc-labs-white.jpg](https://github.com/pymc-labs/brand/blob/master/logos/2-pymc-labs-white.jpg)
 
-<img src="logos/2-pymc-labs-white.jpg" width="100" style="border:1px solid red">
+<img src="logos/2-pymc-labs-white.jpg" width="100" style="border:10px solid black">
 
 <br>
 
