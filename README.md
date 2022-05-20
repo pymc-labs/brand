@@ -16,7 +16,7 @@ This section contains PyMC Lab's branding standards and guidelines.
 ### Logos
 
 <br>
-<img src="logos/labs-logos-summary.png" width="400">
+<img src="logos/labs-logos-summary.png" >
 
 
 <br>
