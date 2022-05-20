@@ -22,7 +22,7 @@ This section contains PyMC Lab's branding standards and guidelines.
 - File size: 404 KB (4167 x 4168 px)
 - [1-pymc-labs-black.jpg](https://github.com/pymc-labs/brand/blob/master/logos/1-pymc-labs-black.jpg)
 
-<img src="logos/pymc-labs-white.jpg" width="100">
+<img src="logos/1-pymc-labs-black.jpg" width="100">
 
 <br>
 
@@ -31,7 +31,7 @@ This section contains PyMC Lab's branding standards and guidelines.
 - File size: 404 KB (4167 x 4167 px)
 - [2-pymc-labs-white.jpg](https://github.com/pymc-labs/brand/blob/master/logos/2-pymc-labs-white.jpg)
 
-<img src="logos/pymc-labs-black.jpg" width="100">
+<img src="logos/2-pymc-labs-white.jpg" width="100">
 
 <br>
 
