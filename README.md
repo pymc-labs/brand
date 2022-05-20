@@ -106,7 +106,7 @@ More info: [#34c4d9](https://www.color-hex.com/color/34c4d9)
 More info: [#25bbe7](https://www.color-hex.com/color/25bbe7)
 
 ![#1AB0E8](/banner_colors/colorswatch_1ab0e8_blue.png) `RGB (26,176,232) | HEX #1AB0E8 | sky Blue`  
-More info: [#1ab0e8](https://www.color-hex.com/color/#1ab0e8)
+More info: [#1ab0e8](https://www.color-hex.com/color/1ab0e8)
 
 ![#0A96F6](/banner_colors/colorswatch_0a96f6_blue.png) `RGB (10,150,246) | HEX #0A96F6 | Blue`  
 More info: [#0a96f6](https://www.color-hex.com/color/0a96f6)
