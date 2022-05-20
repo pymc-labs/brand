@@ -69,7 +69,7 @@ This section contains PyMC Lab's branding standards and guidelines.
 #### Logo 6
 - File type: PNG
 - File size: 94 KB (926 x 923 px)
-- File name:[6-pymc-labs-favicon.png](https://github.com/pymc-labs/brand/blob/master/logos/6-pymc-labs-favicon.png)
+- File name: [6-pymc-labs-favicon.png](https://github.com/pymc-labs/brand/blob/master/logos/6-pymc-labs-favicon.png)
 
 <img src="logos/6-pymc-labs-favicon.png" width="100">
 
