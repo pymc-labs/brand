@@ -20,7 +20,7 @@ This section contains PyMC Lab's branding standards and guidelines.
 #### Logo 1
 - File type: JPG
 - File size: 404 KB (4167 x 4168 px)
-- [1-pymc-labs-white.jpg]()
+- [1-pymc-labs-white.jpeg]()
 
 <img src="logo/pymc-labs-white.jpg" width="100">
 
