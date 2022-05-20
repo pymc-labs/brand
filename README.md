@@ -16,11 +16,15 @@ This section contains PyMC Lab's branding standards and guidelines.
 ### Logos
 
 <br>
+<img src="logos/labs-logos-summary.png" width="400">
+
+
+<br>
 
 #### Logo 1
 - File type: JPG
 - File size: 404 KB (4167 x 4168 px)
-- [1-pymc-labs-black.jpg](https://github.com/pymc-labs/brand/blob/master/logos/1-pymc-labs-black.jpg)
+- File name: [1-pymc-labs-black.jpg](https://github.com/pymc-labs/brand/blob/master/logos/1-pymc-labs-black.jpg)
 
 <img src="logos/1-pymc-labs-black.jpg" width="100" style="border:1px solid red">
 
@@ -29,7 +33,7 @@ This section contains PyMC Lab's branding standards and guidelines.
 #### Logo 2
 - File type: JPG
 - File size: 404 KB (4167 x 4167 px)
-- [2-pymc-labs-white.jpg](https://github.com/pymc-labs/brand/blob/master/logos/2-pymc-labs-white.jpg)
+- File name: [2-pymc-labs-white.jpg](https://github.com/pymc-labs/brand/blob/master/logos/2-pymc-labs-white.jpg)
 
 <img src="logos/2-pymc-labs-white.jpg" width="100" style="border:10px solid black">
 
@@ -38,7 +42,7 @@ This section contains PyMC Lab's branding standards and guidelines.
 #### Logo 3
 - File type: PNG
 - File size: 50 KB (1651 x 560 px)
-- [3-pymc-labs-transp-black.png](https://github.com/pymc-labs/brand/blob/master/logos/3-pymc-labs-transp-black.png)
+- File name: [3-pymc-labs-transp-black.png](https://github.com/pymc-labs/brand/blob/master/logos/3-pymc-labs-transp-black.png)
 
 <img src="logos/3-pymc-labs-transp-black.png" width="100">
 
@@ -47,7 +51,7 @@ This section contains PyMC Lab's branding standards and guidelines.
 #### Logo 4
 - File type: PNG
 - File size: 88 KB (2620 x 923 px)
-- [4-pymc-labs-transp-white.png](https://github.com/pymc-labs/brand/blob/master/logos/4-pymc-labs-transp-white.png)
+- File name: [4-pymc-labs-transp-white.png](https://github.com/pymc-labs/brand/blob/master/logos/4-pymc-labs-transp-white.png)
 
 <img src="logos/4-pymc-labs-transp-white.png" width="100">
 
@@ -56,7 +60,7 @@ This section contains PyMC Lab's branding standards and guidelines.
 #### Logo 5
 - File type: PNG
 - File size: 52 KB (2620 x 923 px)
-- [5-pymc-labs-all-white.png](https://github.com/pymc-labs/brand/blob/master/logos/5-pymc-labs-all-white.png)
+- File name: [5-pymc-labs-all-white.png](https://github.com/pymc-labs/brand/blob/master/logos/5-pymc-labs-all-white.png)
 
 <img src="logos/5-pymc-labs-all-white.png" width="100">
 
@@ -65,7 +69,7 @@ This section contains PyMC Lab's branding standards and guidelines.
 #### Logo 6
 - File type: PNG
 - File size: 94 KB (926 x 923 px)
-- [6-pymc-labs-favicon.png](https://github.com/pymc-labs/brand/blob/master/logos/6-pymc-labs-favicon.png)
+- File name:[6-pymc-labs-favicon.png](https://github.com/pymc-labs/brand/blob/master/logos/6-pymc-labs-favicon.png)
 
 <img src="logos/6-pymc-labs-favicon.png" width="100">
 
