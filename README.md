@@ -8,7 +8,7 @@ This section contains PyMC Lab's branding standards and guidelines.
 
 ### Font
 - [Conthrax typeface](https://www.myfonts.com/search/conthrax/)
-- To purchase the font: [Conthrax](https://www.fontspring.com/fonts/typodermic/conthrax)
+- Font is (free) and available for download: [Conthrax](https://www.fontspring.com/fonts/typodermic/conthrax)
 
 ### Colors
 - unknown at this time; need to ask the designer
