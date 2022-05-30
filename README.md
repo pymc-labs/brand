@@ -11,14 +11,12 @@ This section contains PyMC Lab's branding standards and guidelines.
 - Font is (free) and available for download: [Conthrax](https://www.fontspring.com/fonts/typodermic/conthrax)
 
 ### Colors
-- unknown at this time; need to ask the designer
+- #34C4D9 | #25BBE7 | #1AB0E8 | #0A96F6 | #0379EA | #005BD2
 
 ### Logos
 
 <br>
 <img src="logos/labs-logos-summary.png" >
-
-
 <br>
 
 #### Logo 1
