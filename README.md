@@ -15,6 +15,16 @@ This section contains PyMC Lab's branding standards and guidelines.
 
 ### Logos
 
+#### Version 2 (Sep 2022)
+Logos can be found here:  
+https://github.com/pymc-labs/brand/tree/main/logos/2022-09-labs-logos-various
+
+<br>
+<img src="logos/2022-09-labs-logos-various/labs-logos-summary-v2.png" >
+<br>
+
+
+#### Version 1 (Original logos)
 <br>
 <img src="logos/labs-logos-summary.png" >
 <br>
