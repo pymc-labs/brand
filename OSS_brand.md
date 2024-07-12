@@ -1,6 +1,6 @@
 # OSS branding guidelines
 
-PyMC-Labs has also created and maintains two open source libraries: causalpy and pymc-marketing,
+PyMC Labs has also created and maintains two open source libraries: CausalPy and PyMC-Marketing,
 each with their own logo and identity, but with common elements to help identify they are
 part of PyMC-Labs such as:
 
@@ -28,9 +28,9 @@ In case elements with that color need accents, the alternatives are:
   * greener shade: #40C240 ${\color{#40C240} \Huge \blacksquare}$
   * yellower shade: #C2C240 ${\color{#C2C240} \Huge \blacksquare}$
 
-I have also mixed the logo green with black to generate a blackish green that can be used as
-secondary background for dark themes: #2B4115 ${\color{#2B4115} \Huge \blacksquare}$, and the darker shade of logo green with white
-to generate a whiteish green that can be used as secondary background for light themes: #CDDEBB ${\color{#CDDEBB} \Huge \blacksquare}$.
+There are also color mixtures for use as backgrounds:
+* Mixture of the logo green with black to generate a blackish green that can be used as secondary background for dark themes: #2B4115 ${\color{#2B4115} \Huge \blacksquare}$
+* Mixture of the darker shade of logo green with white to generate a whiteish green that can be used as secondary background for light themes: #CDDEBB ${\color{#CDDEBB} \Huge \blacksquare}$.
 
 ## Usage
 
